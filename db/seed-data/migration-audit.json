@@ -1,0 +1,153 @@
+{
+  "pageCount": 21,
+  "mediaCount": 39,
+  "audit": [
+    {
+      "slug": "der-regenwald",
+      "blocks": 31,
+      "textCharacters": 4641,
+      "missingTextBlocks": 0,
+      "images": 0
+    },
+    {
+      "slug": "diskusbuntbarsch",
+      "blocks": 49,
+      "textCharacters": 3306,
+      "missingTextBlocks": 0,
+      "images": 1
+    },
+    {
+      "slug": "entdecke-die-tiere-des-regenwaldes",
+      "blocks": 49,
+      "textCharacters": 2767,
+      "missingTextBlocks": 0,
+      "images": 12
+    },
+    {
+      "slug": "faultier",
+      "blocks": 38,
+      "textCharacters": 2879,
+      "missingTextBlocks": 0,
+      "images": 1
+    },
+    {
+      "slug": "fuer-eltern-und-paedagog-innen",
+      "blocks": 31,
+      "textCharacters": 7496,
+      "missingTextBlocks": 0,
+      "images": 0
+    },
+    {
+      "slug": "gelbbrustara",
+      "blocks": 43,
+      "textCharacters": 3414,
+      "missingTextBlocks": 0,
+      "images": 1
+    },
+    {
+      "slug": "gruene-anakonda",
+      "blocks": 42,
+      "textCharacters": 2529,
+      "missingTextBlocks": 0,
+      "images": 1
+    },
+    {
+      "slug": "harpyie",
+      "blocks": 42,
+      "textCharacters": 3392,
+      "missingTextBlocks": 0,
+      "images": 1
+    },
+    {
+      "slug": "impressum",
+      "blocks": 4,
+      "textCharacters": 209,
+      "missingTextBlocks": 0,
+      "images": 0
+    },
+    {
+      "slug": "home",
+      "blocks": 22,
+      "textCharacters": 2021,
+      "missingTextBlocks": 0,
+      "images": 6
+    },
+    {
+      "slug": "jaguar",
+      "blocks": 29,
+      "textCharacters": 2219,
+      "missingTextBlocks": 0,
+      "images": 1
+    },
+    {
+      "slug": "kapuzineraffe",
+      "blocks": 23,
+      "textCharacters": 2493,
+      "missingTextBlocks": 0,
+      "images": 1
+    },
+    {
+      "slug": "kolibri",
+      "blocks": 28,
+      "textCharacters": 2189,
+      "missingTextBlocks": 0,
+      "images": 2
+    },
+    {
+      "slug": "kontakt",
+      "blocks": 7,
+      "textCharacters": 487,
+      "missingTextBlocks": 0,
+      "images": 1
+    },
+    {
+      "slug": "libelle",
+      "blocks": 39,
+      "textCharacters": 2458,
+      "missingTextBlocks": 0,
+      "images": 1
+    },
+    {
+      "slug": "maras-abenteuer",
+      "blocks": 32,
+      "textCharacters": 3093,
+      "missingTextBlocks": 0,
+      "images": 2
+    },
+    {
+      "slug": "mata-mata",
+      "blocks": 32,
+      "textCharacters": 2770,
+      "missingTextBlocks": 0,
+      "images": 1
+    },
+    {
+      "slug": "pfeilgiftfrosch",
+      "blocks": 50,
+      "textCharacters": 3299,
+      "missingTextBlocks": 0,
+      "images": 1
+    },
+    {
+      "slug": "rechtliches",
+      "blocks": 6,
+      "textCharacters": 4690,
+      "missingTextBlocks": 0,
+      "images": 0
+    },
+    {
+      "slug": "tukan",
+      "blocks": 39,
+      "textCharacters": 2852,
+      "missingTextBlocks": 0,
+      "images": 1
+    },
+    {
+      "slug": "uber-mich",
+      "blocks": 19,
+      "textCharacters": 2570,
+      "missingTextBlocks": 0,
+      "images": 0
+    }
+  ]
+}

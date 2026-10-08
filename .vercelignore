@@ -1,0 +1,16 @@
+.git/
+.vercel/
+.next/
+node_modules/
+.data/
+.abacusai/
+.agents/
+.claude/
+tools/
+source/
+test-results/
+playwright-report/
+.env*
+*.zip
+*.log
+*.tsbuildinfo

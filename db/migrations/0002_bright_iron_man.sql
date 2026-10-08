@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX "rate_limit_identity" ON "rate_limits" USING btree ("identifier","action");
